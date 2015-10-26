@@ -1,2 +1,2 @@
 # plugin-mathjs-editor
-A  MathJS plugin for Redactor, TinyMCE editor. help type math symbol in web
+A  MathJS plugin for Redactor, TinyMCE editor. Help writing math symbols in web
